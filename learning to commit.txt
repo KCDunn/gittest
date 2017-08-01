@@ -1,0 +1,31 @@
+Git Commands: 
+
+1. open terminal
+   cd Desktop
+
+2. md gittest
+
+3. cd gittest
+
+4. copy NUL index.html
+   copy NUL styles.scc
+   copy NUL aboutMe.txt 
+   git add .
+   git commit -m "added files" 
+
+5. Wrote small bio about myself in aboutMe.txt
+   git add . 
+   git commit -m "updated aboutMe" 
+
+6. added favorite movie to aboutMe.txt 
+   git add .
+   git commit -m "added favorite movie to aboutMe" 
+
+7. git log (reviewed git log)
+
+8. git revert -n 
+   Changed Favorite Movie to Favorite Book in aboutMe.txt file
+   git add .
+   git commit -m "added favorite book" 
+
+8
